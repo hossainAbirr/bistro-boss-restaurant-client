@@ -1,6 +1,6 @@
 # Website Name : Bistro Boss
 
-## Livesite Link : https://parcel-management-a57ac.web.app/
+## Livesite Link : https://bistro-boss-restaurant-cd184.web.app/
 
 - 1 : Login registration integrated from firebase
 - 2 : Client can add a product
