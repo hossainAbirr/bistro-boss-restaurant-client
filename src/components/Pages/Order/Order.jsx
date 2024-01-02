@@ -4,7 +4,7 @@ import { Tab, Tabs, TabList, TabPanel } from 'react-tabs';
 import 'react-tabs/style/react-tabs.css';
 import useMenu from "../../../hooks/useMenu";
 import { useState } from "react";
-import FoodCard from "../../SharedComponents/FoodCard/FoodCard";
+
 import OrderTab from "./OrderTab";
 import { useParams } from "react-router-dom";
 

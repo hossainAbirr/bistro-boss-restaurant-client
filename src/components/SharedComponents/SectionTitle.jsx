@@ -1,5 +1,6 @@
 
 const SectionTitle = ({ heading, subHeading }) => {
+
     return (
         <div className=" max-w-sm md:max-w-md mx-auto text-center">
             <h3 className="text-[#D99904] italic text-xl pb-3">{subHeading}</h3>
